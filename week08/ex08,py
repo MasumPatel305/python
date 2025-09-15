@@ -1,0 +1,7 @@
+# 8. Create ["z", "x", "y"]. Sort it in reverse order.
+
+a =  ["z", "x", "y"]
+
+a.sort(reverse=True)
+
+print(a)
